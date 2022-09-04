@@ -30,3 +30,27 @@ terraform.rc
 
 # MISC
 .DS_Store
+=======
+# SERVICE
+node_modules
+.load-report
+.env
+coverage
+.cache
+
+# MISC
+.vscode
+.terraform
+.cache
+*.tfout
+.idea
+.DS_Store
+
+# REPORTING
+allure-results
+allure-reports
+newrelic_agent.log
+
+# IDEs and editors
+/.idea
+
