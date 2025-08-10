@@ -24,5 +24,5 @@ variable "regions" {
 }
 variable "service_name" {
   type        = string
-  description = "Name of the service such as (device-service)"
+  description = "Name of the service such as (registration-service)"
 }
